@@ -296,8 +296,7 @@ button:focus {
   background: linear-gradient(rgba(3, 1, 10, 0.5), rgba(3, 1, 10, 0.5)), url(../img/banner/home-banner.jpg) no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
-    width: 100%;
-    display: flex; }
+    width: 100%;     }
     .home_banner_area .banner_inner .container {
       vertical-align: middle;
       align-self: center; }
