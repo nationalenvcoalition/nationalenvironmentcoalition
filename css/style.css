@@ -305,14 +305,14 @@ button:focus {
       vertical-align: middle;
       align-self: center;
       text-align: center; }
-      .home_banner_area .banner_inner .banner_content .upper_text {
-        line-height: 50px;
+      .home_banner_area .banner_inner .banner_content .upper_text {        
         font-size: 50px;
         text-transform: uppercase;
         color: #fdbb00; }
         @media (max-width: 767px) {
           .home_banner_area .banner_inner .banner_content .upper_text {
-            font-size: 35px; } }
+            font-size: 35px;
+            line-height: 50px;} }
       .home_banner_area .banner_inner .banner_content h2 {
         color: #ffffff;
         margin-top: 0px;
