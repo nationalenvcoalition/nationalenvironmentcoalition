@@ -323,7 +323,7 @@ button:focus {
         margin-bottom: 20px; }
       .home_banner_area .banner_inner .banner_content p {
         color: #f9f9ff;
-        max-width: 680px;
+        max-width: 980px;
         margin: 0px auto 45px; }
       @media (max-width: 767px) {
         .home_banner_area .banner_inner .banner_content .mr-20 {
